@@ -1,0 +1,25 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.envrc
+
+### macOS template
+# General
+.DS_Store
+
+# Icon must end with two \r
+Icon
+
+# Thumbnails
+._*
+
+.idea/
